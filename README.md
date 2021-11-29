@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 
 ------
 
-[BrantLauro](https://github.com/seyyedaliayati)
+[Seyyed Ali Ayati](https://github.com/seyyedaliayati)
 
 Last Edited on: 11/29/2021
