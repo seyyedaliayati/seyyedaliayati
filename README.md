@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Python and Its Back-End frameworks in-depth**
 
-- 👯 I’m looking to collaborate on **Python and Back-End projects**
+- 👯 I’m looking to collaborate on **Python and Django projects**
 
 - 📫 How to reach me: **seyyedaliayati@gmail.com**
 
