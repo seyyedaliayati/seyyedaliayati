@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Ali <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Software Engineer and Python/Django Developer (and a beginner software project manager) from Iran</h3>
+<h1 align="center">Hi 👋, I am Seyyed Ali Ayati <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A passionate software engineer and a professional software developer who has experienced and is familiar with different programming languages, design patterns, clean code priciples, and robust architectures.</h3>
 
 <!-- - 🔭 I’m currently working on my **Python Course** -->
 
-- 🌱 I’m currently learning **Python and Its Back-End frameworks in-depth**
+- 🌱 I’m currently learning **Rust, C and C++.**
 
 - 👯 I’m looking to collaborate on **Python and Django projects**
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seyyedaliayati/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ali.ayati.99/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seyyedaliayati/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyyedaliayati@gmail.com)
   
 </div>
@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 
 ------
 
-[Seyyed Ali Ayati](https://github.com/seyyedaliayati)
+[Click here to take a look at my Curriculum Vitae (CV)](https://seyyedaliayati.github.io/)
 
-Last Edited on: 11/29/2021
+Last Edited on: 22/04/2022
